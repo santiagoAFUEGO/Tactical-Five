@@ -1,4 +1,4 @@
-# ScoutAI Pro
+# Quinteto Táctico
 
 *[🇪🇸 Versión en español](README.md)*
 
